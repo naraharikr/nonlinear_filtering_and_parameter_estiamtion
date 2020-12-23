@@ -1,4 +1,4 @@
-# kalmaNN
+# Extended Kalmand Filter - NN Training
 Extended Kalman Filter for Training Neural-Networks
 
 An implementation of chapter two from [this text](http://bit.ly/2oGjaMu).
